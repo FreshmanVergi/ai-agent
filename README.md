@@ -10,7 +10,7 @@
 |---|---|
 | **GitHub** | https://github.com/FreshmanVergi/ai-agent |
 | **Midterm API (StayAPI)** | http://stayapi-env.eba-ruyp7rkn.eu-central-1.elasticbeanstalk.com/swagger-ui/index.html |
-| **Video** | https://drive.google.com/your-video-link |
+| **Video** | https://drive.google.com/file/d/1nhpnOwwNWi-M-lfhPIRQEkpiiu7Od0aa/view?usp=sharing |
 
 ---
 
